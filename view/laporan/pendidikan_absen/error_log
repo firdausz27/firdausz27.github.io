@@ -1,0 +1,2 @@
+[07-Nov-2014 14:24:50 Asia/Jakarta] PHP Fatal error:  Call to a member function getNamaAwal() on a non-object in /home/daarulmu/public_html/sim/view/laporan/pendidikan_absen/LapAbsenPersonal.php on line 104
+[22-Nov-2014 20:22:45 Asia/Jakarta] PHP Fatal error:  Call to a member function getNamaAwal() on a non-object in /home/daarulmu/public_html/sim/view/laporan/pendidikan_absen/LapAbsenPersonal.php on line 104
